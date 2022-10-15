@@ -1,0 +1,9 @@
+.opcion-titulo{
+    background: #2A3F54;
+    color: #fff;
+    width: 100%;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 5px;
+}
